@@ -1,5 +1,5 @@
 global:
-  slack_api_url: 'https://hooks.slack.com/services/..../configure-slack-incoming-webhook'
+  slack_api_url: 'https://hooks.slack.com/services/...'
 templates:
 - '/etc/alertmanager/template/*.tmpl'
 
